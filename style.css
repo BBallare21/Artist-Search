@@ -1,0 +1,32 @@
+#titleimg {
+    width: 1280px;
+    height: 690px;
+}
+
+
+body, html {
+    height: 100%;
+}
+  
+  html {
+    /* The image used */
+    background-image: url(./Images/milky-way-starry-sky-night-sky-star-956981.jpeg);
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-size: cover;
+}
+
+#searchbar {
+padding-top: 150px;
+padding-bottom: 50px;
+width: 50%;
+}
+
+.table {
+width: 500px;
+}
+
+.card {
+    border-radius: 10px;
+}
