@@ -5,3 +5,20 @@
     width: 100%;
     height: 1080px;
 }
+
+.logForm {
+    color: #a8a8a8;
+    width: 400px;
+    float: right;
+    margin-right: 100px;
+    border: 2px solid #a8a8a8;
+    padding: 40px;
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.15);
+
+}
+
+.logTitle {
+    color: #a8a8a8;
+}
