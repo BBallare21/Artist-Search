@@ -6,6 +6,34 @@
     height: 1080px;
 }
 
+.logo {
+    margin-left: 65px;
+    margin-top: 15px;
+}
+
+.info {
+    color: #a8a8a8;
+    font-weight: bold;
+    font-size: 36px;
+    width: 960px;
+    float: left;
+    margin-left: 100px;
+    border: 2px solid #a8a8a8;
+    padding: 40px;
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.15);
+}
+
+#signup {
+    color: #a8a8a8;
+    text-decoration: underline;
+}
+
+#signup:hover {
+    color: rgb(32, 146, 223);
+}
+
 .logForm {
     color: #a8a8a8;
     width: 400px;
